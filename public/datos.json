@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "nombre": "Árbol de Navidad artificial",
+      "descripcion": "Árbol de Navidad artificial de 1.80 metros con luces LED",
+      "precio": 99.99,
+      "categoria": "Decoración"
+    },
+    {
+      "id": 2,
+      "nombre": "Guirnalda luminosa",
+      "descripcion": "Guirnalda luminosa con 100 luces LED de colores",
+      "precio": 19.99,
+      "categoria": "Luces"
+    },
+    {
+      "id": 3,
+      "nombre": "Bola de Navidad personalizada",
+      "descripcion": "Bola de Navidad de cristal transparente con diseño personalizado",
+      "precio": 12.99,
+      "categoria": "Adornos"
+    },
+    {
+      "id": 4,
+      "nombre": "Calcetín navideño gigante",
+      "descripcion": "Calcetín navideño gigante para colgar en la chimenea, ideal para regalos grandes",
+      "precio": 24.99,
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 5,
+      "nombre": "Corona navideña",
+      "descripcion": "Corona navideña artesanal con piñas y bayas rojas",
+      "precio": 29.99,
+      "categoria": "Decoración"
+    },
+    {
+      "id": 6,
+      "nombre": "Proyector de estrellas navideñas",
+      "descripcion": "Proyector de estrellas con motivos navideños para crear un ambiente mágico",
+      "precio": 34.99,
+      "categoria": "Luces"
+    }
+  ]
+  
